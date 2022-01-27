@@ -12,6 +12,8 @@
             <% SM_Basic_App_GitHub.Class1 tp = new SM_Basic_App_GitHub.Class1(); %>
 
             <%=tp.Name %>
+
+            <p>Hello VS to GitHub!</p>
         </div>
     </form>
 </body>
